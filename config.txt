@@ -1,0 +1,6 @@
+owner=507617872730783754
+prefix=+
+game=Bot Ghost | +play
+stayinchannel=true
+songinstatus=false
+token=NTk0ODAxNjc4NzU5MzYyNTgx.XRhvHQ.k9QtUGT1KpibfSDWIkMxGSbAn0k
